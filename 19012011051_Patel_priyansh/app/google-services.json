@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19352306988",
+    "project_id": "e-agro-4-users",
+    "storage_bucket": "e-agro-4-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19352306988:android:ee8a5a988942f1213bd889",
+        "android_client_info": {
+          "package_name": "com.example.e_agro_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19352306988-jk7kvt3qhfmgq8b8pmqbjuc46p3t1tbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMdDHJIMNjPL7PqLEkGYCAzvF3TCuDuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19352306988-jk7kvt3qhfmgq8b8pmqbjuc46p3t1tbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
